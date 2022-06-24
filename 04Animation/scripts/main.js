@@ -10,3 +10,4 @@ function spin(){
 }
 
 setInterval(spin, 16); //equivalent to 60 fps
+//d
